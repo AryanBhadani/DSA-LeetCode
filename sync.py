@@ -54,6 +54,9 @@ def graphql_query(query: str, variables: Dict[str, Any] = None, retries: int = 3
             resp.raise_for_status()
             data = resp.json()
             if "errors" in data:
+                # Log GraphQL error messages without exposing request details or secrets
+                msgs = [e.get("message", "<no message>") for e in data.get("errors", [])]
+                print(f"GraphQL errors: {', '.join(msgs)}", file=sys.stderr)
                 raise RuntimeError(data["errors"])
             return data
         except Exception as e:
@@ -64,9 +67,8 @@ def graphql_query(query: str, variables: Dict[str, Any] = None, retries: int = 3
 
 # GraphQL query to fetch recent submissions (Accepted only)
 SUBMISSIONS_QUERY = """
-query recentSubmissions($username: String!, $offset: Int!) {
-  recentSubmissions(userSlug: $username, offset: $offset) {
-    lastKey
+query recentSubmissionList($username: String!) {
+  recentSubmissionList(username: $username) {
     submissions {
       id
       titleSlug
@@ -74,12 +76,6 @@ query recentSubmissions($username: String!, $offset: Int!) {
       statusDisplay
       lang
       timestamp
-      timeComplexity
-      memoryComplexity
-      runtime
-      memory
-      beatRate
-      __typename
     }
   }
 }
@@ -88,21 +84,19 @@ query recentSubmissions($username: String!, $offset: Int!) {
 USERNAME = os.getenv("LEETCODE_USERNAME", "Aryanbhadani123")
 
 def fetch_all_accepted() -> List[Dict[str, Any]]:
-    all_submissions = []
-    offset = 0
-    while True:
-        data = graphql_query(SUBMISSIONS_QUERY, {"username": USERNAME, "offset": offset})
-        recent = data.get("data", {}).get("recentSubmissions", {})
-        submissions = recent.get("submissions", [])
-        if not submissions:
-            break
-        for sub in submissions:
-            if sub.get("statusDisplay") == "Accepted":
-                all_submissions.append(sub)
-        offset = recent.get("lastKey")
-        if not offset:
-            break
-    return all_submissions
+    """Fetch all accepted submissions using the recentSubmissionList query.
+    The query returns a flat list; no pagination is required.
+    Errors are logged without exposing secrets.
+    """
+    try:
+        data = graphql_query(SUBMISSIONS_QUERY, {"username": USERNAME})
+    except Exception as e:
+        # Log a sanitized error message
+        print(f"Error fetching submissions: {e}", file=sys.stderr)
+        return []
+    submissions = data.get("data", {}).get("recentSubmissionList", {}).get("submissions", [])
+    # Filter only accepted submissions
+    return [sub for sub in submissions if sub.get("statusDisplay") == "Accepted"]
 
 def load_tracker() -> List[int]:
     tracker_path = Path("synced_submissions.json")
