@@ -127,6 +127,7 @@ def main():
         slug = sub.get("titleSlug")
         title = sub.get("title")
         lang = sub.get("lang") or "txt"
+        # Map language to file extension
         ext_map = {
             "cpp": "cpp",
             "java": "java",
@@ -140,6 +141,7 @@ def main():
             "rust": "rs",
         }
         ext = ext_map.get(lang.lower(), "txt")
+        # Fetch the solution code for this submission
         code_query = """
         query submissionDetail($id: Int!) {
           submissionDetail(submissionId: $id) {
@@ -156,17 +158,57 @@ def main():
             continue
         if not code:
             continue
-        problem_dir = Path("problems") / f"{sub_id:04d}-{slug}"
+        # Determine the official problem number (frontendQuestionId) via a secondary query
+        question_number = None
+        question_query = """
+        query questionData($titleSlug: String!) {
+          question(titleSlug: $titleSlug) {
+            frontendQuestionId
+            __typename
+          }
+        }
+        """
+        try:
+            qdata = graphql_query(question_query, {"titleSlug": slug})
+            question_number = qdata.get("data", {}).get("question", {}).get("frontendQuestionId")
+        except Exception as e:
+            print(f"Failed to fetch question number for {slug}: {e}", file=sys.stderr)
+        # Fallback: use submission ID if we cannot get the problem number
+        if not question_number:
+            question_number = str(sub_id)
+        # Build the problem directory name using the question number
+        dir_name = f"{question_number}-{slug}"
+        problem_dir = Path("problems") / dir_name
+        # If the directory already exists (imported previously), we skip creating a new one
+        if problem_dir.is_dir():
+            # Mark this submission as synced to avoid reprocessing, but do not treat as new
+            tracked.add(sub_id)
+            continue
+        # Ensure directory exists (may already contain previous solution)
         problem_dir.mkdir(parents=True, exist_ok=True)
+        # Determine solution file path
         sol_path = problem_dir / f"solution.{ext}"
-        sol_path.write_text(code)
-        readme_path = problem_dir / "README.md"
-        readme_content = f"""# {sub_id}. {title}\n\n- **Difficulty:** Unknown (LeetCode does not expose in this API)\n- **Language:** {lang}\n- **LeetCode URL:** https://leetcode.com/problems/{slug}/\n\n## Solution\n\n```{lang}\n{code}\n```\n\n"""
-        readme_path.write_text(readme_content)
-        new_ids.append(sub_id)
-    if new_ids:
-        tracked.update(new_ids)
+        # Decide whether we need to write (i.e., content differs)
+        should_commit = True
+        if sol_path.is_file():
+            existing_code = sol_path.read_text()
+            if existing_code == code:
+                # No change in solution; skip committing for this submission
+                should_commit = False
+        if should_commit:
+            sol_path.write_text(code)
+            # Write (or overwrite) README with metadata
+            readme_path = problem_dir / "README.md"
+            readme_content = f"""# {question_number}. {title}\n\n- **Difficulty:** Unknown (LeetCode does not expose in this API)\n- **Language:** {lang}\n- **LeetCode URL:** https://leetcode.com/problems/{slug}/\n\n## Solution\n\n```{lang}\n{code}\n```\n\n"""
+            readme_path.write_text(readme_content)
+            new_ids.append(sub_id)
+        else:
+            # Mark as synced without creating a commit
+            tracked.add(sub_id)
+    # Save tracker irrespective of new submissions to ensure existing folders are recorded
+    if tracked:
         save_tracker(sorted(tracked))
+    if new_ids:
         print(f"Added {len(new_ids)} new submissions.")
     else:
         print("No new accepted submissions.")

@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Secrets (should never be committed)
+LEETCODE_SESSION
+LEETCODE_CSRF_TOKEN
+GIT_EMAIL
