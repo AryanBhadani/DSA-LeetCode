@@ -54,16 +54,22 @@ def graphql_query(query: str, variables: Dict[str, Any] = None, retries: int = 3
     for attempt in range(1, retries + 1):
         try:
             resp = requests.post(BASE_URL, json=payload, headers=HEADERS, timeout=10)
-            resp.raise_for_status()
+            # Log HTTP status (do not expose secrets)
+            print(f"HTTP response status: {resp.status_code}", file=sys.stderr)
+            if resp.status_code != 200:
+                # Truncate response body for safety
+                snippet = resp.text[:500]
+                print(f"Non‑200 response body (truncated): {snippet}", file=sys.stderr)
+                resp.raise_for_status()
             data = resp.json()
             if "errors" in data:
-                # Log GraphQL error messages without exposing request details or secrets
                 msgs = [e.get("message", "<no message>") for e in data.get("errors", [])]
                 print(f"GraphQL errors: {', '.join(msgs)}", file=sys.stderr)
                 raise RuntimeError(data["errors"])
             return data
         except Exception as e:
             if attempt == retries:
+                # Propagate error so the workflow fails
                 raise
             time.sleep(backoff * attempt)
     return {}
