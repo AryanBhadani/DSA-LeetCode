@@ -32,6 +32,9 @@ BASE_URL = "https://leetcode.com/graphql"
 HEADERS = {
     "Content-Type": "application/json",
     "Accept": "application/json",
+    "Referer": "https://leetcode.com",
+    "Origin": "https://leetcode.com",
+    "User-Agent": "Mozilla/5.0 (compatible; leetcode-sync/1.0)",
     "Cookie": "",
 }
 
@@ -65,38 +68,61 @@ def graphql_query(query: str, variables: Dict[str, Any] = None, retries: int = 3
             time.sleep(backoff * attempt)
     return {}
 
-# GraphQL query to fetch recent submissions (Accepted only)
-SUBMISSIONS_QUERY = """
-query recentSubmissionList($username: String!) {
-  recentSubmissionList(username: $username) {
+# GraphQL query to fetch a page of submissions (accepted only)
+SUBMISSION_LIST_QUERY = """
+query submissionList($offset: Int!, $limit: Int!, $lastKey: String, $questionSlug: String) {
+  submissionList(offset: $offset, limit: $limit, lastKey: $lastKey, questionSlug: $questionSlug) {
+    lastKey
+    hasNext
     submissions {
       id
-      titleSlug
-      title
       statusDisplay
       lang
       timestamp
+      title
+      titleSlug
     }
   }
 }
 """
 
-USERNAME = os.getenv("LEETCODE_USERNAME", "Aryanbhadani123")
-
 def fetch_all_accepted() -> List[Dict[str, Any]]:
-    """Fetch all accepted submissions using the recentSubmissionList query.
-    The query returns a flat list; no pagination is required.
-    Errors are logged without exposing secrets.
+    """Fetch all accepted submissions using the paginated `submissionList` query.
+    Returns a flat list of submission dicts.
     """
-    try:
-        data = graphql_query(SUBMISSIONS_QUERY, {"username": USERNAME})
-    except Exception as e:
-        # Log a sanitized error message
-        print(f"Error fetching submissions: {e}", file=sys.stderr)
-        return []
-    submissions = data.get("data", {}).get("recentSubmissionList", {}).get("submissions", [])
-    # Filter only accepted submissions
-    return [sub for sub in submissions if sub.get("statusDisplay") == "Accepted"]
+    submissions: List[Dict[str, Any]] = []
+    offset = 0
+    page_size = 20
+    last_key = None
+    while True:
+        variables = {
+            "offset": offset,
+            "limit": page_size,
+            "lastKey": last_key,
+            "questionSlug": "",
+        }
+        try:
+            data = graphql_query(SUBMISSION_LIST_QUERY, variables)
+        except Exception as e:
+            print(f"Error fetching submissions page at offset {offset}: {e}", file=sys.stderr)
+            break
+        result = data.get("data", {}).get("submissionList")
+        if result is None:
+            print("Error: submissionList data missing – possible auth issue or API change", file=sys.stderr)
+            break
+        subs = result.get("submissions")
+        if subs is None:
+            print("Warning: submissions list is null – possible authentication issue or API change", file=sys.stderr)
+            break
+        for sub in subs:
+            if sub.get("statusDisplay") == "Accepted":
+                submissions.append(sub)
+        if not result.get("hasNext"):
+            break
+        last_key = result.get("lastKey")
+        offset += page_size
+        time.sleep(0.5)
+    return submissions
 
 def load_tracker() -> List[int]:
     tracker_path = Path("synced_submissions.json")
