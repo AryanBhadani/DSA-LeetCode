@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
