@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0202-happy-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0342-power-of-four) |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
