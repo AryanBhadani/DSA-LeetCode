@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0258-add-digits) |
@@ -79,5 +80,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
