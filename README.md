@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Divide and Conquer
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Hash Table
 |  |
 | ------- |
