@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [2396-strictly-palindromic-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
@@ -104,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
