@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0740-delete-and-earn) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
@@ -132,9 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0518-coin-change-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
