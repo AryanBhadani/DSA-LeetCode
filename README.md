@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0213-house-robber-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0213-house-robber-ii) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0740-delete-and-earn](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0740-delete-and-earn) |
 ## Enumeration
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0474-ones-and-zeroes](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Knapsack Problem
@@ -147,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0494-target-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
