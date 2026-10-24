@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0342-power-of-four) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0139-word-break) |
+## Sorting
+|  |
+| ------- |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
 <!---LeetCode Topics End-->
