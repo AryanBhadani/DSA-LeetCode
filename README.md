@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1025-divisor-game) |
 | [1049-last-stone-weight-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Hash Table
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0474-ones-and-zeroes](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0474-ones-and-zeroes) |
+| [1143-longest-common-subsequence](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
