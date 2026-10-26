@@ -20,26 +20,26 @@ public:
             return sum;
         }
 
-        if (t[m][n]!= -1) {
+        if (t[m][n]!=-1) {
             return t[m][n];
         }
 
-        if (s1[m-1] == s2[n-1]) {
+        if (s1[m-1]==s2[n-1]) {
             return t[m][n] =
-                minimumDeleteSum(s1, s2, m-1, n-1);
+                minimumDeleteSum(s1,s2,m-1,n-1);
         }
         else {
             return t[m][n] = min(
-                (int)s1[m-1] + minimumDeleteSum(s1, s2, m-1, n),
-                (int)s2[n-1] + minimumDeleteSum(s1, s2, m, n-1)
+                (int)s1[m-1]+minimumDeleteSum(s1,s2,m-1,n),
+                (int)s2[n-1]+minimumDeleteSum(s1,s2,m,n-1)
             );
         }
     }
 
     int minimumDeleteSum(string s1, string s2) {
-        memset(t, -1, sizeof(t));
+        memset(t,-1,sizeof(t));
         int m = s1.size();
         int n = s2.size();
-        return minimumDeleteSum(s1, s2, m, n);
+        return minimumDeleteSum(s1,s2,m,n);
     }
 };
