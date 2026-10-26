@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0983-minimum-cost-for-tickets) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0474-ones-and-zeroes](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
