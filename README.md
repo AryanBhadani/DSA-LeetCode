@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0139-word-break) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0202-happy-number) |
 | [2396-strictly-palindromic-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Floyd's Cycle Finding Algorithm
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
