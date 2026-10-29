@@ -16,17 +16,17 @@ public:
             return t[m][n] = longestPalindrome(s,m+1,n-1);
         }
 
-        return t[m][n] = false;
+        return t[m][n]=false;
     }
 
     string longestPalindrome(string s) {
         memset(t,-1,sizeof(t));
 
         int S = s.size();
-        int maxLen = 0;
-        int start = 0;
+        int maxLen =0;
+        int start =0;
 
-        for (int m=0; m<S; m++) {
+        for (int m=0;m<S;m++) {
             for (int n=m; n<S; n++) {
                 if(longestPalindrome(s,m,n) && n-m+1>maxLen) {
                     maxLen=n-m+1;
@@ -35,6 +35,6 @@ public:
             }
         }
 
-        return s.substr(start, maxLen);
+        return s.substr(start,maxLen);
     }
 };
