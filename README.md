@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1049-last-stone-weight-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
