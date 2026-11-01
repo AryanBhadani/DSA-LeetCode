@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0518-coin-change-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0908-smallest-range-i) |
