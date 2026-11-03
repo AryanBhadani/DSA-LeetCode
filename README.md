@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
