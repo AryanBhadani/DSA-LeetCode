@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0561-array-partition) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
