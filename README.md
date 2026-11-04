@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0561-array-partition) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Longest Common Subsequence
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
