@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
