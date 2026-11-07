@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
@@ -278,4 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-number-of-music-playlists](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0920-number-of-music-playlists) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
