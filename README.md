@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3024-type-of-triangle](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3024-type-of-triangle) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3024-type-of-triangle) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3024-type-of-triangle](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3024-type-of-triangle) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Longest Common Subsequence
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
