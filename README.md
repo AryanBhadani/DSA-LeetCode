@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0740-delete-and-earn](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0740-delete-and-earn) |
 | [1512-number-of-good-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
