@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2942-find-words-containing-character) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Longest Common Subsequence
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Combinatorics
 |  |
 | ------- |
