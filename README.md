@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3024-type-of-triangle](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3024-type-of-triangle) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3693-climbing-stairs-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3024-type-of-triangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
