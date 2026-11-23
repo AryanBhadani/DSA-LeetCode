@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0494-target-sum) |
+| [0506-relative-ranks](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [0561-array-partition](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0561-array-partition) |
 | [0740-delete-and-earn](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0740-delete-and-earn) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3024-type-of-triangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
