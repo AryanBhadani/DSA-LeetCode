@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0908-smallest-range-i) |
 | [0920-number-of-music-playlists](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0920-number-of-music-playlists) |
+| [0991-broken-calculator](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0991-broken-calculator) |
 | [1025-divisor-game](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0561-array-partition) |
+| [0991-broken-calculator](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0991-broken-calculator) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting Sort
