@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1672-richest-customer-wealth](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0740-delete-and-earn](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0740-delete-and-earn) |
 | [1512-number-of-good-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Enumeration
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
