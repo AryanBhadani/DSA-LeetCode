@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1925-count-square-sum-triples](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
