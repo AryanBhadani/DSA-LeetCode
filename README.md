@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2270-number-of-ways-to-split-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Enumeration
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3024-type-of-triangle](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3024-type-of-triangle) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/3467-transform-array-by-parity) |
