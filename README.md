@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0561-array-partition) |
 | [0740-delete-and-earn](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0881-boats-to-save-people](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0908-smallest-range-i](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0908-smallest-range-i) |
 | [0983-minimum-cost-for-tickets](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1035-uncrossed-lines) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0647-palindromic-substrings) |
+| [0881-boats-to-save-people](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0991-broken-calculator](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0991-broken-calculator) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -355,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0506-relative-ranks) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/AryanBhadani/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
